@@ -1,6 +1,6 @@
 ## SimPrints Collect Proxy
 
-An Android app that can be used with ODK Collect (as an external-app) to communicate with the SimPrints app.
+An Android app that can be used with ODK Collect (as an external-app) to communicate with the SimPrints app. Works with both [ODK Collect](https://github.com/opendatakit/collect), and [Ona Collect](https://github.com/onaio/collect).
 
 ### Building the app
 
