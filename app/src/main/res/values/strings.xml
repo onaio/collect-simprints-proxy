@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Collect SimPrints Proxy</string>
+    <string name="action_register">io.ona.simprints.REGISTER</string>
+    <string name="action_verify">io.ona.simprints.VERIFY</string>
+    <string name="action_identify">io.ona.simprints.IDENTIFY</string>
+</resources>
