@@ -1,4 +1,4 @@
-package io.ona.collect.simprints;
+package io.ona.collect.android.simprints;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
